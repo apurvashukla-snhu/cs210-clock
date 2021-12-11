@@ -1,0 +1,3 @@
+C:\Users\outha\source\repos\CS210ProjectOne\x64\Debug\CS210ProjectOne.exe
+C:\Users\outha\source\repos\CS210ProjectOne\x64\Debug\CS210ProjectOne.exe.lastcodeanalysissucceeded
+C:\Users\outha\source\repos\CS210ProjectOne\x64\Debug\NativeCodeAnalysis.read.1.tlog
